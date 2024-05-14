@@ -6,7 +6,7 @@ let lengthArray5Elems = array5Elems.length;
 
 console.log(array5Elems[0] , "\n" , array5Elems[parseInt(lengthArray5Elems/2)] , "\n" , array5Elems[lengthArray5Elems - 1]);
 
-let mixedDataTypes = ["sahil" , 66 , true , "cybercell" , "bcet" , "javascript"];
+let mixedDataTypes = ["Pawan" , 4 , true , "Bcet" , "java" , "javascript"];
 
 let mixedDataTypesLength = mixedDataTypes.length;
 
